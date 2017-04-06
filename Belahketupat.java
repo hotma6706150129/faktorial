@@ -17,6 +17,7 @@ public class Belahketupat {
     public static void main(String[] args) {
         
         System.out.println("");
+        System.out.println("Hotma Putri Ayu");
         int l = 1;
         int tingkat = 10;
         int n = 12/2;
